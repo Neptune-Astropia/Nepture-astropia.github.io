@@ -7,7 +7,10 @@
             <li>模型最流畅</li>
           </ul>
           <span>下图左边为bezier曲线（效果不理想），右边为path曲线（推荐）</span> -->
-          <img class="midpic" src="/demo/pic/low-poly-fix-1.png">
+          <img class="midpic" src="../pic/low-poly-fix-1.png">
+          <img class="midpic" src="../pic/low-poly-fix-2.png">
+          <img class="midpic" src="../pic/low-poly-fix-3.png">
+
         
   </div>
 </template>

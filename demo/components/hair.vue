@@ -7,6 +7,6 @@
             <li>模型最流畅</li>
           </ul>
           <span>下图左边为bezier曲线（效果不理想），右边为path曲线（推荐）</span>
-          <img class="midpic" src="/demo/pic/hair-curve.png">
+          <img class="midpic" src="../pic/hair-curve.png">
   </div>
 </template>

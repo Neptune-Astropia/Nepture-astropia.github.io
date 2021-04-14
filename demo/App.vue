@@ -15,7 +15,7 @@
           </a> -->
         </h1>
         <p>Astropia Artist Wiki 艺术家指南</p>
-        <div>
+       <!--  <div>
           Select theme:
           <select v-model="selectedTheme">
             <option
@@ -26,7 +26,7 @@
               {{ theme.name }}
             </option>
           </select>
-        </div>
+        </div> -->
         <hr style="margin: 50px 0px;border: 1px solid #e3e3e3;">
         <router-view />
       </div>
